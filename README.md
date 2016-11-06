@@ -14,4 +14,3 @@
 
 欢迎提交。。。
 
-ps: 如果爬取wall.alphacoders.com壁纸，只需要更改相应的start_urls 就好 O(∩_∩)O
